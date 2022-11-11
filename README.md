@@ -1,2 +1,3 @@
 # photopost-java
-Post a Picture
+
+SpringBoot based web application for posting some photos
